@@ -1,5 +1,5 @@
 ---
-title: Second page
+title: Editing this title too
 description: The second page as it says
 layout: layouts/post
 date: 2020-01-15
